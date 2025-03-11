@@ -1,2 +1,2 @@
 # Anime-WatchList
--Login info to be added in fututre update
+-Login info to be added in future update
